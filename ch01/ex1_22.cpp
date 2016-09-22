@@ -1,5 +1,5 @@
 #include <iostream>
-#include "include/Sales_item.h"
+#include "Sales_item.h"//删除include/，环境DevC++
 
 int main()
 {
